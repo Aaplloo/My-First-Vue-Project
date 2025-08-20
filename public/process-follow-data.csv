@@ -1,0 +1,7 @@
+id,serviceName,status,filterType
+1,综合服务中心,未启动,notStarted
+2,技术研发部,未启动,notStarted
+3,生产运营部,填报中,inProgress
+4,质量检测部,填报中,inProgress
+5,人力资源部,已完成,completed
+6,财务审计部,已完成,completed
